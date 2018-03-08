@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="75081" started-at="2018-03-08T09:47:20Z" finished-at="2018-03-08T09:48:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="75081" started-at="2018-03-08T09:47:20Z" finished-at="2018-03-08T09:48:35Z">
+      <class name="firstpackage.ServiceNowTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:firstpackage.ServiceNowTest@3532ec19]" name="before" is-config="true" duration-ms="6510" started-at="2018-03-08T15:17:20Z" finished-at="2018-03-08T15:17:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="login()[pri:0, instance:firstpackage.ServiceNowTest@3532ec19]" name="login" duration-ms="1591" started-at="2018-03-08T15:17:27Z" finished-at="2018-03-08T15:17:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="addTest()[pri:1, instance:firstpackage.ServiceNowTest@3532ec19]" name="addTest" duration-ms="31900" started-at="2018-03-08T15:17:29Z" finished-at="2018-03-08T15:18:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest -->
+        <test-method status="PASS" signature="viewTest()[pri:2, instance:firstpackage.ServiceNowTest@3532ec19]" name="viewTest" duration-ms="631" started-at="2018-03-08T15:18:00Z" finished-at="2018-03-08T15:18:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewTest -->
+        <test-method status="PASS" signature="deleteTest()[pri:3, instance:firstpackage.ServiceNowTest@3532ec19]" name="deleteTest" duration-ms="31250" started-at="2018-03-08T15:18:01Z" finished-at="2018-03-08T15:18:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTest -->
+        <test-method status="PASS" signature="after()[pri:0, instance:firstpackage.ServiceNowTest@3532ec19]" name="after" is-config="true" duration-ms="3159" started-at="2018-03-08T15:18:32Z" finished-at="2018-03-08T15:18:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- firstpackage.ServiceNowTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
